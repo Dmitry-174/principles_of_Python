@@ -10,6 +10,7 @@ dict_var = {1: 'А', 2: 'Б', 3: 'В'}
 
 # вывод созданных переменных на экран
 print(str_var)
+print('hi')
 print(int_var)
 print(float_var)
 print(list_var)
